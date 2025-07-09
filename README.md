@@ -1,5 +1,5 @@
-# receive_sharing_intent
-[![pub package](https://img.shields.io/pub/v/receive_sharing_intent.svg)](https://pub.dev/packages/receive_sharing_intent)
+# flutter_share_receiver
+[![pub package](https://img.shields.io/pub/v/flutter_share_receiver.svg)](https://pub.dev/packages/flutter_share_receiver)
 
 A Flutter plugin that enables flutter apps to receive sharing photos, videos, text, urls or any other file types from another app.
 
@@ -19,11 +19,11 @@ Check the provided [example](./example/lib/main.dart) for more info.
 
 # Usage
 
-To use this plugin, add `receive_sharing_intent` as a [dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/). For example:
+To use this plugin, add `flutter_share_receiver` as a [dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/). For example:
 
 ```yaml
 dependencies:
-  receive_sharing_intent: ^latest
+  flutter_share_receiver: ^latest
 ```
 
 ## Android
@@ -353,5 +353,4 @@ class _MyAppState extends State<MyApp> {
     );
   }
 }
-```
 

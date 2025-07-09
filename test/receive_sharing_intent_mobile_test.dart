@@ -1,9 +1,10 @@
+import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'dart:async';
 import 'dart:convert';
 
-import 'package:receive_sharing_intent/receive_sharing_intent.dart';
-import 'package:receive_sharing_intent/src/receive_sharing_intent_mobile.dart';
+import 'package:flutter_share_receiver/flutter_share_receiver.dart';
+import 'package:flutter_share_receiver/src/receive_sharing_intent_mobile.dart';
 
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();

@@ -1,7 +1,8 @@
+import 'dart:io';
 import 'package:flutter/material.dart';
 import 'dart:async';
 
-import 'package:receive_sharing_intent/receive_sharing_intent.dart';
+import 'package:flutter_share_receiver/flutter_share_receiver.dart';
 
 void main() => runApp(MyApp());
 

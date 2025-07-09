@@ -1,7 +1,7 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'dart:async';
 
-import 'package:receive_sharing_intent/receive_sharing_intent.dart';
+import 'package:flutter_share_receiver/flutter_share_receiver.dart';
 
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();

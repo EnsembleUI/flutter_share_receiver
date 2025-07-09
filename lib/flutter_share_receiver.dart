@@ -1,4 +1,4 @@
-library receive_sharing_intent;
+library flutter_share_receiver;
 
 import 'dart:async';
 
