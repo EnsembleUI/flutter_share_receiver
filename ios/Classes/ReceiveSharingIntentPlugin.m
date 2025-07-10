@@ -1,8 +1,8 @@
 #import "ReceiveSharingIntentPlugin.h"
-#if __has_include(<receive_sharing_intent/receive_sharing_intent-Swift.h>)
-#import <receive_sharing_intent/receive_sharing_intent-Swift.h>
+#if __has_include(<flutter_share_receiver/flutter_share_receiver-Swift.h>)
+#import <flutter_share_receiver/flutter_share_receiver-Swift.h>
 #else
-#import "receive_sharing_intent-Swift.h"
+#import "flutter_share_receiver-Swift.h"
 #endif
 
 @implementation ReceiveSharingIntentPlugin

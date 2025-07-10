@@ -3,7 +3,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'flutter_share_receiver'
-  s.version          = '1.0.0'
+  s.version          = '1.0.3'
   s.summary          = 'A flutter plugin that enables flutter apps to receive sharing photos, videos, text, urls or any other file types from another app.'
   s.description      = <<-DESC
 A flutter plugin that enables flutter apps to receive sharing photos, videos, text, urls or any other file types from another app.
