@@ -1,3 +1,10 @@
+
+## 1.0.2
+
+* Fixed iOS podspec file naming and module imports
+* Updated example iOS files to use correct module name
+* Resolved pod install issues on iOS
+
 ## 1.0.1
 
 * Fixed the issue with the `SharedMediaFile` class not being found.

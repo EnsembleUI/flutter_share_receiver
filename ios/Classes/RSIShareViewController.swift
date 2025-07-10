@@ -1,8 +1,6 @@
 //
-//  RSIShareViewController.swift
-//  receive_sharing_intent
+//  flutter_share_receiver
 //
-//  Created by Kasem Mohamed on 2024-01-25.
 //
 
 import UIKit
