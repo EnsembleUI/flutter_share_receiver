@@ -1,4 +1,4 @@
-part of flutter_share_receiver;
+part of '../../flutter_share_receiver.dart';
 
 class SharedMediaFile {
   /// Shared file path, url or the text
