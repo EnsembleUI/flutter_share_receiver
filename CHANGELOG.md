@@ -1,4 +1,9 @@
 
+## 1.0.3
+
+* Fixed iOS build error: Updated import statements in ReceiveSharingIntentPlugin.m to use correct module name
+* Resolved 'receive_sharing_intent-Swift.h' file not found error
+
 ## 1.0.2
 
 * Fixed iOS podspec file naming and module imports
